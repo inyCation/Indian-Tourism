@@ -28,7 +28,7 @@ function App() {
           <p className='legend' > Explore </p>
         </div>
         <div>
-        <img src="../src/assets/Andaman__Nicobar_Island.jpg"/>
+        <img src="../src/assets/naturedd.avif"/>
           <p className='legend' > Monument </p>
         </div>
         <div >

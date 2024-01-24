@@ -16,6 +16,13 @@
     }
     .footer{
         flex-direction: column;
+        >.left{
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            align-items: center;
+            flex-direction: row;
+        }
     }
     
     .cards-app{
