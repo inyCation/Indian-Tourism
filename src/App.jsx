@@ -49,10 +49,10 @@ function App() {
 
       <div className="cards-app">
 
-        <Cards name={"lorem"} comment={"amazing place"} />
-        <Cards name={"lorem"} comment={"amazing place"} />
+        <Cards name={"David"} comment={"Must Visit"} />
+        <Cards name={"Satya"} comment={"Amazing place"} />
         
-        <Cards name={"lorem"} comment={"amazing place"} /><Cards name={"lorem"} comment={"amazing place"} />
+        <Cards name={"Ashutosh"} comment={"Environment A1"} /><Cards name={"Deep"} comment={"Must Visit"} />
       </div>
 
       <Footer />
