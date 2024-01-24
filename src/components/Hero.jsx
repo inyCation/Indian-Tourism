@@ -14,7 +14,7 @@ const Header = () => {
         </nav>
             <div className='hero_container'>
                 <div className="left_menu">
-                    <div className="title">Lorem ipsum dolor sit, </div>
+                    <div className="title">आइए हमारे भारत में!! </div>
                     <div className="desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque, minima iste. Repudiandae consequunt</div>
                     <div className="btn">Have a Glance</div>
                 </div>
