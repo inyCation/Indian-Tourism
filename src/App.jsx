@@ -5,6 +5,10 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import "./style.scss"
 import Second from './components/Second'
 import Img2 from "../src/assets/monument.jpg";
+import Img1 from "../src/assets/naturedd.avif";
+import Img3 from "../src/assets/naturedd.avif";
+import Img4 from "../src/assets/naturedd.avif";
+
 
 
 import "./media.scss"
@@ -24,19 +28,19 @@ function App() {
 
       <Carousel>
         <div >
-          <img src={Img2}/>
+          <img src={Img1}/>
           <p className='legend' > Explore </p>
         </div>
         <div>
-        <img src="../src/assets/naturedd.avif"/>
+        <img src={Img2} />
           <p className='legend' > Monument </p>
         </div>
         <div >
-          <img src="../src/assets/indiaGate.avif"/>
+          <img src={Img3}/>
           <p className='legend' > IndiaGate </p>
         </div>
         <div>
-        <img src="../src/assets/monumentt.jpg"/>
+        <img src={Img4}/>
           <p className='legend' > Monument </p>
         </div>
 
