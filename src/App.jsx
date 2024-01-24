@@ -21,26 +21,9 @@ function App() {
       <hr />
       <Quotes quote={"Time spent in India has an extraordinary effect on one. It acts as a barrier that makes the rest of the world seem unreal."} desc={"Tahir Shah"} />
       <hr />
-      {/* <Carousel>
-        <div >
-          <img src="../src/assets/Andaman__Nicobar_Island.jpg"/>
-          <p className='legend' > Explore </p>
-        </div>
-
-        <div>
-          <img src="../src/assets/monument.jpg"/>
-          <p className='legend' > Monument </p>
-        </div>
-
-        <div>
-          <img src="../src/assets/culture.jpg"/>
-          <p className='legend' > Rich Culture </p>
-        </div>
-
-      </Carousel> */}
 
       <Carousel>
-      <div >
+        <div >
           <img src="../src/assets/monument.jpg"/>
           <p className='legend' > Explore </p>
         </div>
@@ -48,6 +31,15 @@ function App() {
         <img src="../src/assets/Andaman__Nicobar_Island.jpg"/>
           <p className='legend' > Monument </p>
         </div>
+        <div >
+          <img src="../src/assets/indiaGate.avif"/>
+          <p className='legend' > IndiaGate </p>
+        </div>
+        <div>
+        <img src="../src/assets/monumentt.jpg"/>
+          <p className='legend' > Monument </p>
+        </div>
+
 
       </Carousel>
 
