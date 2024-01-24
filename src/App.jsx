@@ -4,7 +4,7 @@ import { Carousel } from 'react-responsive-carousel';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import "./style.scss"
 import Second from './components/Second'
-
+import Img2 from "../src/assets/monument.jpg";
 
 
 import "./media.scss"
@@ -24,7 +24,7 @@ function App() {
 
       <Carousel>
         <div >
-          <img src="../src/assets/monument.jpg"/>
+          <img src={Img2}/>
           <p className='legend' > Explore </p>
         </div>
         <div>
