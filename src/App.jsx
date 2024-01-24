@@ -41,11 +41,11 @@ function App() {
 
       <Carousel>
       <div >
-          <img src="../src/assets/Andaman__Nicobar_Island.jpg"/>
+          <img src="../assets/Andaman__Nicobar_Island.jpg"/>
           <p className='legend' > Explore </p>
         </div>
         <div>
-          <img src="../src/assets/monument.jpg"/>
+          <img src="../assets/monument.jpg"/>
           <p className='legend' > Monument </p>
         </div>
 
